@@ -1,7 +1,11 @@
 #
-#
 # Jon Cooper <jon.cooper@gmail.com>
 # 22 September 2010
+#
+# Requires: ruby-mp3info, trollop
+#
+# You can: gem install ruby-mp3info
+#          gem install trollop
 #
 # Notes on libraries -
 # 
